@@ -1,3 +1,19 @@
-body{
-  background-color: brown;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
 }
+
+html{
+  font-size: 16px;
+}
+
+body{
+  background-image: url('../asssets/images/rock-paper.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
